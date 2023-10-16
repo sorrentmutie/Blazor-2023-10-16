@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UF41wFjV5naRe+7Vh4FTc23W/Miw/V3WeaZdxQ4uf0w=",
+  "Source": "HelloCore",
+  "BasePath": "_content/HelloCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelloCore\\wwwroot",
+      "Source": "HelloCore",
+      "ContentRoot": "E:\\work\\corsi\\idea-lab\\HelloCore\\wwwroot\\",
+      "BasePath": "_content/HelloCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\work\\corsi\\idea-lab\\HelloCore\\wwwroot\\logo.png",
+      "SourceId": "HelloCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\work\\corsi\\idea-lab\\HelloCore\\wwwroot\\",
+      "BasePath": "_content/HelloCore",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    }
+  ]
+}

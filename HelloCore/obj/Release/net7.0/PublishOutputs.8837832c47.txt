@@ -1,0 +1,7 @@
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\HelloCore.exe
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\HelloCore.dll
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\HelloCore.deps.json
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\HelloCore.runtimeconfig.json
+E:\work\corsi\idea-lab\HelloCore\obj\Release\net7.0\PubTmp\Out\HelloCore.pdb
